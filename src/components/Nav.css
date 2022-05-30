@@ -1,0 +1,32 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  background-color: rgba(211, 201, 201, 0.411);
+  text-decoration: none;
+}
+
+#logoHenry {
+  margin-right: 20px;
+}
+
+.navbar-brand {
+  letter-spacing: 2px;
+  display: flex;
+  width: 20%;
+  text-decoration: none;
+  color:black;
+}
+
+.link{
+  text-decoration: none;
+  color:black;
+}
+
+.titulo {
+  position: relative;
+  align-content: flex-end;
+  text-decoration: none;
+  cursor: pointer;
+  color:black;
+}
+
