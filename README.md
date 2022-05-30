@@ -11,8 +11,8 @@ Si queres probarla, descarga el repositorio y en la consola ejecuta el comando "
 
 
 <p align="center">
-  <img src = "./img/1.png"/>
-  <img src = "./img/2.png"/>
-  <img src = "./img/3.png"/>
+  <img height="400" src = "./src/img/1.png"/>
+  <img height="400" src = "./src/img/2.png"/>
+  <img height="400" src = "./src/img/3.png"/>
 </p>
 
